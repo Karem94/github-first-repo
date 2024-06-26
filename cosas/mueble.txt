@@ -1,0 +1,4 @@
+sala
+sillon
+mesa
+trinchador
